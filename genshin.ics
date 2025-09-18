@@ -1,0 +1,209 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Genshin Version Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:原神版本前瞻直播
+X-WR-TIMEZONE:Asia/Shanghai
+
+BEGIN:VTIMEZONE
+TZID:Asia/Shanghai
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:CST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+UID:genshin-m0-20250829@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20250829T200000
+DTEND;TZID=Asia/Shanghai:20250829T213000
+SUMMARY:原神月.0版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。直播地址: https://www.youtube.com/@Genshin_JP/streams
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-m1-20251010@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20251010T200000
+DTEND;TZID=Asia/Shanghai:20251010T213000
+SUMMARY:原神月.1版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。直播地址: https://www.youtube.com/@Genshin_JP/streams
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-m2-20251121@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20251121T200000
+DTEND;TZID=Asia/Shanghai:20251121T213000
+SUMMARY:原神月.2版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。直播地址: https://www.youtube.com/@Genshin_JP/streams
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-m3-20260102@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20260102T200000
+DTEND;TZID=Asia/Shanghai:20260102T213000
+SUMMARY:原神月.3版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。直播地址: https://www.youtube.com/@Genshin_JP/streams
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-m4-20260213@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20260213T200000
+DTEND;TZID=Asia/Shanghai:20260213T213000
+SUMMARY:原神月.4版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。直播地址: https://www.youtube.com/@Genshin_JP/streams
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-m5-20260327@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20260327T200000
+DTEND;TZID=Asia/Shanghai:20260327T213000
+SUMMARY:原神月.5版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。直播地址: https://www.youtube.com/@Genshin_JP/streams
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-m6-20260508@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20260508T200000
+DTEND;TZID=Asia/Shanghai:20260508T213000
+SUMMARY:原神月.6版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。直播地址: https://www.youtube.com/@Genshin_JP/streams
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-m7-20260619@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20260619T200000
+DTEND;TZID=Asia/Shanghai:20260619T213000
+SUMMARY:原神月.7版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。直播地址: https://www.youtube.com/@Genshin_JP/streams
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-m8-20260731@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20260731T200000
+DTEND;TZID=Asia/Shanghai:20260731T213000
+SUMMARY:原神月.8版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。直播地址: https://www.youtube.com/@Genshin_JP/streams
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-60-20260912@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20260912T200000
+DTEND;TZID=Asia/Shanghai:20260912T213000
+SUMMARY:原神6.0版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。直播地址: https://www.youtube.com/@Genshin_JP/streams
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-61-20261024@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20261024T200000
+DTEND;TZID=Asia/Shanghai:20261024T213000
+SUMMARY:原神6.1版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。直播地址: https://www.youtube.com/@Genshin_JP/streams
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-62-20261205@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20261205T200000
+DTEND;TZID=Asia/Shanghai:20261205T213000
+SUMMARY:原神6.2版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。直播地址: https://www.youtube.com/@Genshin_JP/streams
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-63-20270116@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20270116T200000
+DTEND;TZID=Asia/Shanghai:20270116T213000
+SUMMARY:原神6.3版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。直播地址: https://www.youtube.com/@Genshin_JP/streams
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-64-20270227@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20270227T200000
+DTEND;TZID=Asia/Shanghai:20270227T213000
+SUMMARY:原神6.4版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。直播地址: https://www.youtube.com/@Genshin_JP/streams
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-65-20270410@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20270410T200000
+DTEND;TZID=Asia/Shanghai:20270410T213000
+SUMMARY:原神6.5版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。直播地址: https://www.youtube.com/@Genshin_JP/streams
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-66-20270522@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20270522T200000
+DTEND;TZID=Asia/Shanghai:20270522T213000
+SUMMARY:原神6.6版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。直播地址: https://www.youtube.com/@Genshin_JP/streams
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-67-20270703@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20270703T200000
+DTEND;TZID=Asia/Shanghai:20270703T213000
+SUMMARY:原神6.7版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。直播地址: https://www.youtube.com/@Genshin_JP/streams
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-68-20270814@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20270814T200000
+DTEND;TZID=Asia/Shanghai:20270814T213000
+SUMMARY:原神6.8版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。直播地址: https://www.youtube.com/@Genshin_JP/streams
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-70-20270925@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20270925T200000
+DTEND;TZID=Asia/Shanghai:20270925T213000
+SUMMARY:原神7.0版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。直播地址: https://www.youtube.com/@Genshin_JP/streams
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+END:VCALENDAR
