@@ -3,8 +3,6 @@ VERSION:2.0
 PRODID:-//Genshin Impact//CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:原神版本更新和前瞻直播
-X-WR-TIMEZONE:Asia/Shanghai
 
 BEGIN:VEVENT
 UID:genshin-preview-yue-0@example.com
@@ -167,210 +165,10 @@ LOCATION:游戏内
 END:VEVENT
 
 BEGIN:VEVENT
-UID:genshin-preview-yue-8@example.com
+UID:genshin-preview-7-0@example.com
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=Asia/Shanghai:20260731T200000
 DTEND;TZID=Asia/Shanghai:20260731T213000
-SUMMARY:原神月.8版 前瞻直播
-DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。记得及时兑换哦！
-LOCATION:https://www.youtube.com/@Genshin_JP/streams
-END:VEVENT
-
-BEGIN:VEVENT
-UID:genshin-update-yue-8@example.com
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=Asia/Shanghai:20260812T060000
-DTEND;TZID=Asia/Shanghai:20260812T120000
-SUMMARY:原神月.8版 更新
-DESCRIPTION:服务器维护更新，预计停服5小时。通常维护结束后会补偿600原石。
-LOCATION:游戏内
-END:VEVENT
-
-BEGIN:VEVENT
-UID:genshin-preview-6-0@example.com
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=Asia/Shanghai:20260911T200000
-DTEND;TZID=Asia/Shanghai:20260911T213000
-SUMMARY:原神6.0版 前瞻直播
-DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。记得及时兑换哦！
-LOCATION:https://www.youtube.com/@Genshin_JP/streams
-END:VEVENT
-
-BEGIN:VEVENT
-UID:genshin-update-6-0@example.com
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=Asia/Shanghai:20260923T060000
-DTEND;TZID=Asia/Shanghai:20260923T120000
-SUMMARY:原神6.0版 更新
-DESCRIPTION:服务器维护更新，预计停服5小时。通常维护结束后会补偿600原石。
-LOCATION:游戏内
-END:VEVENT
-
-BEGIN:VEVENT
-UID:genshin-preview-6-1@example.com
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=Asia/Shanghai:20261023T200000
-DTEND;TZID=Asia/Shanghai:20261023T213000
-SUMMARY:原神6.1版 前瞻直播
-DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。记得及时兑换哦！
-LOCATION:https://www.youtube.com/@Genshin_JP/streams
-END:VEVENT
-
-BEGIN:VEVENT
-UID:genshin-update-6-1@example.com
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=Asia/Shanghai:20261104T060000
-DTEND;TZID=Asia/Shanghai:20261104T120000
-SUMMARY:原神6.1版 更新
-DESCRIPTION:服务器维护更新，预计停服5小时。通常维护结束后会补偿600原石。
-LOCATION:游戏内
-END:VEVENT
-
-BEGIN:VEVENT
-UID:genshin-preview-6-2@example.com
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=Asia/Shanghai:20261204T200000
-DTEND;TZID=Asia/Shanghai:20261204T213000
-SUMMARY:原神6.2版 前瞻直播
-DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。记得及时兑换哦！
-LOCATION:https://www.youtube.com/@Genshin_JP/streams
-END:VEVENT
-
-BEGIN:VEVENT
-UID:genshin-update-6-2@example.com
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=Asia/Shanghai:20261216T060000
-DTEND;TZID=Asia/Shanghai:20261216T120000
-SUMMARY:原神6.2版 更新
-DESCRIPTION:服务器维护更新，预计停服5小时。通常维护结束后会补偿600原石。
-LOCATION:游戏内
-END:VEVENT
-
-BEGIN:VEVENT
-UID:genshin-preview-6-3@example.com
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=Asia/Shanghai:20270115T200000
-DTEND;TZID=Asia/Shanghai:20270115T213000
-SUMMARY:原神6.3版 前瞻直播
-DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。记得及时兑换哦！
-LOCATION:https://www.youtube.com/@Genshin_JP/streams
-END:VEVENT
-
-BEGIN:VEVENT
-UID:genshin-update-6-3@example.com
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=Asia/Shanghai:20270127T060000
-DTEND;TZID=Asia/Shanghai:20270127T120000
-SUMMARY:原神6.3版 更新
-DESCRIPTION:服务器维护更新，预计停服5小时。通常维护结束后会补偿600原石。
-LOCATION:游戏内
-END:VEVENT
-
-BEGIN:VEVENT
-UID:genshin-preview-6-4@example.com
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=Asia/Shanghai:20270226T200000
-DTEND;TZID=Asia/Shanghai:20270226T213000
-SUMMARY:原神6.4版 前瞻直播
-DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。记得及时兑换哦！
-LOCATION:https://www.youtube.com/@Genshin_JP/streams
-END:VEVENT
-
-BEGIN:VEVENT
-UID:genshin-update-6-4@example.com
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=Asia/Shanghai:20270310T060000
-DTEND;TZID=Asia/Shanghai:20270310T120000
-SUMMARY:原神6.4版 更新
-DESCRIPTION:服务器维护更新，预计停服5小时。通常维护结束后会补偿600原石。
-LOCATION:游戏内
-END:VEVENT
-
-BEGIN:VEVENT
-UID:genshin-preview-6-5@example.com
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=Asia/Shanghai:20270409T200000
-DTEND;TZID=Asia/Shanghai:20270409T213000
-SUMMARY:原神6.5版 前瞻直播
-DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。记得及时兑换哦！
-LOCATION:https://www.youtube.com/@Genshin_JP/streams
-END:VEVENT
-
-BEGIN:VEVENT
-UID:genshin-update-6-5@example.com
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=Asia/Shanghai:20270421T060000
-DTEND;TZID=Asia/Shanghai:20270421T120000
-SUMMARY:原神6.5版 更新
-DESCRIPTION:服务器维护更新，预计停服5小时。通常维护结束后会补偿600原石。
-LOCATION:游戏内
-END:VEVENT
-
-BEGIN:VEVENT
-UID:genshin-preview-6-6@example.com
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=Asia/Shanghai:20270521T200000
-DTEND;TZID=Asia/Shanghai:20270521T213000
-SUMMARY:原神6.6版 前瞻直播
-DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。记得及时兑换哦！
-LOCATION:https://www.youtube.com/@Genshin_JP/streams
-END:VEVENT
-
-BEGIN:VEVENT
-UID:genshin-update-6-6@example.com
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=Asia/Shanghai:20270602T060000
-DTEND;TZID=Asia/Shanghai:20270602T120000
-SUMMARY:原神6.6版 更新
-DESCRIPTION:服务器维护更新，预计停服5小时。通常维护结束后会补偿600原石。
-LOCATION:游戏内
-END:VEVENT
-
-BEGIN:VEVENT
-UID:genshin-preview-6-7@example.com
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=Asia/Shanghai:20270702T200000
-DTEND;TZID=Asia/Shanghai:20270702T213000
-SUMMARY:原神6.7版 前瞻直播
-DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。记得及时兑换哦！
-LOCATION:https://www.youtube.com/@Genshin_JP/streams
-END:VEVENT
-
-BEGIN:VEVENT
-UID:genshin-update-6-7@example.com
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=Asia/Shanghai:20270714T060000
-DTEND;TZID=Asia/Shanghai:20270714T120000
-SUMMARY:原神6.7版 更新
-DESCRIPTION:服务器维护更新，预计停服5小时。通常维护结束后会补偿600原石。
-LOCATION:游戏内
-END:VEVENT
-
-BEGIN:VEVENT
-UID:genshin-preview-6-8@example.com
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=Asia/Shanghai:20270813T200000
-DTEND;TZID=Asia/Shanghai:20270813T213000
-SUMMARY:原神6.8版 前瞻直播
-DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。记得及时兑换哦！
-LOCATION:https://www.youtube.com/@Genshin_JP/streams
-END:VEVENT
-
-BEGIN:VEVENT
-UID:genshin-update-6-8@example.com
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=Asia/Shanghai:20270825T060000
-DTEND;TZID=Asia/Shanghai:20270825T120000
-SUMMARY:原神6.8版 更新
-DESCRIPTION:服务器维护更新，预计停服5小时。通常维护结束后会补偿600原石。
-LOCATION:游戏内
-END:VEVENT
-
-BEGIN:VEVENT
-UID:genshin-preview-7-0@example.com
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=Asia/Shanghai:20270924T200000
-DTEND;TZID=Asia/Shanghai:20270924T213000
 SUMMARY:原神7.0版 前瞻直播
 DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。记得及时兑换哦！
 LOCATION:https://www.youtube.com/@Genshin_JP/streams
@@ -379,9 +177,169 @@ END:VEVENT
 BEGIN:VEVENT
 UID:genshin-update-7-0@example.com
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=Asia/Shanghai:20271006T060000
-DTEND;TZID=Asia/Shanghai:20271006T120000
+DTSTART;TZID=Asia/Shanghai:20260812T060000
+DTEND;TZID=Asia/Shanghai:20260812T120000
 SUMMARY:原神7.0版 更新
+DESCRIPTION:服务器维护更新，预计停服5小时。通常维护结束后会补偿600原石。
+LOCATION:游戏内
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-preview-7-1@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20260911T200000
+DTEND;TZID=Asia/Shanghai:20260911T213000
+SUMMARY:原神7.1版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。记得及时兑换哦！
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-update-7-1@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20260923T060000
+DTEND;TZID=Asia/Shanghai:20260923T120000
+SUMMARY:原神7.1版 更新
+DESCRIPTION:服务器维护更新，预计停服5小时。通常维护结束后会补偿600原石。
+LOCATION:游戏内
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-preview-7-2@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20261023T200000
+DTEND;TZID=Asia/Shanghai:20261023T213000
+SUMMARY:原神7.2版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。记得及时兑换哦！
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-update-7-2@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20261104T060000
+DTEND;TZID=Asia/Shanghai:20261104T120000
+SUMMARY:原神7.2版 更新
+DESCRIPTION:服务器维护更新，预计停服5小时。通常维护结束后会补偿600原石。
+LOCATION:游戏内
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-preview-7-3@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20261204T200000
+DTEND;TZID=Asia/Shanghai:20261204T213000
+SUMMARY:原神7.3版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。记得及时兑换哦！
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-update-7-3@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20261216T060000
+DTEND;TZID=Asia/Shanghai:20261216T120000
+SUMMARY:原神7.3版 更新
+DESCRIPTION:服务器维护更新，预计停服5小时。通常维护结束后会补偿600原石。
+LOCATION:游戏内
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-preview-7-4@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20270115T200000
+DTEND;TZID=Asia/Shanghai:20270115T213000
+SUMMARY:原神7.4版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。记得及时兑换哦！
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-update-7-4@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20270127T060000
+DTEND;TZID=Asia/Shanghai:20270127T120000
+SUMMARY:原神7.4版 更新
+DESCRIPTION:服务器维护更新，预计停服5小时。通常维护结束后会补偿600原石。
+LOCATION:游戏内
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-preview-7-5@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20270226T200000
+DTEND;TZID=Asia/Shanghai:20270226T213000
+SUMMARY:原神7.5版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。记得及时兑换哦！
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-update-7-5@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20270310T060000
+DTEND;TZID=Asia/Shanghai:20270310T120000
+SUMMARY:原神7.5版 更新
+DESCRIPTION:服务器维护更新，预计停服5小时。通常维护结束后会补偿600原石。
+LOCATION:游戏内
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-preview-7-6@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20270409T200000
+DTEND;TZID=Asia/Shanghai:20270409T213000
+SUMMARY:原神7.6版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。记得及时兑换哦！
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-update-7-6@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20270421T060000
+DTEND;TZID=Asia/Shanghai:20270421T120000
+SUMMARY:原神7.6版 更新
+DESCRIPTION:服务器维护更新，预计停服5小时。通常维护结束后会补偿600原石。
+LOCATION:游戏内
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-preview-7-7@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20270521T200000
+DTEND;TZID=Asia/Shanghai:20270521T213000
+SUMMARY:原神7.7版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。记得及时兑换哦！
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-update-7-7@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20270602T060000
+DTEND;TZID=Asia/Shanghai:20270602T120000
+SUMMARY:原神7.7版 更新
+DESCRIPTION:服务器维护更新，预计停服5小时。通常维护结束后会补偿600原石。
+LOCATION:游戏内
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-preview-7-8@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20270702T200000
+DTEND;TZID=Asia/Shanghai:20270702T213000
+SUMMARY:原神7.8版 前瞻直播
+DESCRIPTION:新版本前瞻特别节目，通常会有300原石兑换码。记得及时兑换哦！
+LOCATION:https://www.youtube.com/@Genshin_JP/streams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:genshin-update-7-8@example.com
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Asia/Shanghai:20270714T060000
+DTEND;TZID=Asia/Shanghai:20270714T120000
+SUMMARY:原神7.8版 更新
 DESCRIPTION:服务器维护更新，预计停服5小时。通常维护结束后会补偿600原石。
 LOCATION:游戏内
 END:VEVENT
